@@ -17,4 +17,3 @@ services:
     # Uncomment to mount local model directory (skip S3 download)
     # volumes:
     #   - ./Qwen3-0.6B:/app/model:ro
-

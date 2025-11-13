@@ -29,4 +29,3 @@ ENV MODEL_PATH=/app/model
 
 # Run entrypoint script
 ENTRYPOINT ["/app/entrypoint.sh"]
-

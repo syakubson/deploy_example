@@ -14,4 +14,3 @@ echo "  - Health: http://localhost:8000/health"
 echo ""
 
 uvicorn src.app:app --host 0.0.0.0 --port 8000
-
