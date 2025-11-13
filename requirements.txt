@@ -1,0 +1,10 @@
+transformers==4.57.1
+torch==2.9.0
+torchvision==0.24.0
+accelerate==1.11.0
+fastapi==0.115.5
+uvicorn==0.32.1
+boto3==1.35.72
+gradio==5.7.1
+pre-commit
+nbstripout
